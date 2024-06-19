@@ -2,7 +2,7 @@
 <h1 align="center">Welcome to My React Todo App 📝</h1>
 
 <p align="center">
-  <img src="https://i.giphy.com/dxn6fRlTIShoeBr69N.webp" alt="Gif" width="600">
+  <img src="https://i.giphy.com/dxn6fRlTIShoeBr69N.webp" alt="Gif" width="200">
 </p>
 
 <p align="center">
