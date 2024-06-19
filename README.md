@@ -78,5 +78,5 @@ Contributions are welcome! Feel free to open issues and pull requests.
 ---
 
 <p align="center">
-  Made with ❤️ by [ssdelay](https://github.com/ssdelay)
+  Made with ❤️ by ssdelay
 </p>
